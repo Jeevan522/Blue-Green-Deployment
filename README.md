@@ -1,2 +1,2 @@
-# Blue-Green-Deployment
-Blue Green Deployment on Kubernetes Environment!!
+# Blue-Green-Deployment!
+Blue Green Deployment on Kubernetes Environment!
